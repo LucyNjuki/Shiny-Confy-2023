@@ -1,0 +1,23 @@
+Project,Task,Start(Plan),End(Plan),Start,End,Duration_days,Status,Milestone(%),Overall Progress,signed_by
+Project 2,Data request,10/03/2022,10/15/2022,10/03/2022,10/20/2022,17,Completed,100,35,Lucy
+Project 2,Data cleaning,11/05/2022,12/06/2022,11/05/2022,12/06/2022,31,Completed,100,60,Lucy
+Project 2,Data visualisation +analysis,12/06/2022,12/23/2022,12/06/2022,12/23/2022,17,Completed,100,100,Lucy
+Management,Developing the data wrangling pipeline,09/26/2022,12/23/2022,09/26/2022,12/15/2022,80,Completed,100,50,Yuan+Lucy
+Management,Gantt Charting template,01/02/2023,01/09/2023,01/02/2023,01/09/2023,7,Completed,100,100,Lucy
+Operations,Make Coffee,12/13/2022,02/13/2023,12/13/2022,NA,NA,Active,60,50,Yuan+Lucy
+Operations,Buy milk,12/13/2022,02/13/2023,12/13/2022,NA,NA,NA,60,100,NA
+Project 3,Automation,04/15/2023,05/15/2023,NA,NA,NA,On hold,0,20,Yuan
+Project 3,Dashboarding,02/14/2023,04/15/2023,03/14/2023,05/01/2023,NA,Delayed,30,45,Lucy
+Project 3,Machine learning,01/18/2023,02/26/2023,01/18/2023,NA,NA,Active,50,65,Yuan+Lucy
+Project 3,Report,05/20/2023,06/20/2023,NA,NA,NA,On hold,0,100,Yuan+Lucy
+Project 1,Proposal plan,09/26/2022,10/26/2022,09/26/2022,10/26/2022,30,Completed,100,12,Yuan
+Project 1,Define the research question,11/01/2022,11/04/2022,11/14/2021,12/01/2022,18,Completed,100,20,Yuan
+Project 1,Literature review,11/15/2022,12/31/2022,11/20/2022,01/10/2023,51,Completed,100,30,Lucy
+Project 1,Methodology Refine,11/15/2022,01/15/2023,11/25/2022,01/13/2023,49,Completed,100,36,Yuan
+Project 1,Data collection+processing,11/15/2022,01/31/2023,11/23/2022,01/31/2023,69,Completed,100,42,Lucy
+Project 1,Data analysis,02/01/2023,02/28/2023,02/01/2023,02/20/2023,19,Completed,100,55,Yuan
+Project 1,Result disccusion (Paper in a day workshop),03/06/2023,03/07/2023,NA,NA,0,Cancelled,NA,68,Yuan+Lucy
+Project 1,Paper Draft version,03/13/2023,04/13/2023,03/06/2023,04/03/2023,28,Active,30,76,Yuan+Lucy
+Project 1,Paper Correct version,04/24/2023,05/08/2023,04/10/2023,04/28/2023,18,Active,0,85,Yuan
+Project 1,Ready for submission,05/08/2023,06/02/2023,05/01/2023,06/02/2023,32,Active,0,98,Yuan+Lucy
+Project 1,Presentation,06/05/2023,06/30/2023,06/05/2023,07/05/2023,25,Active,0,100,Yuan+Lucy
