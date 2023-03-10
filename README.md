@@ -11,3 +11,5 @@ We are often involved in many projects as researchers in academia. Ensuring that
 A question came to mind. Instead of rerunning the R Markdown file to update the Gantt Chart, could Shiny Apps be used to automate this process? The answer is yes! We created an R Shiny App that can automate and update Gantt Charts. This results in improving the efficiency of project management in academia.
 
 In this presentation, we will point out some of the awesome features of R shiny and demonstrate how our R Shiny App can easily automate Gantt charts and track the progress of tasks.
+
+The shiny app can be found here: [Making Project Management Seamless using Automated Gantt Charts in R Shiny](https://lucy-njuki.shinyapps.io/Gantt_Chart_ShinyConfy2023/)
